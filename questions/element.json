@@ -1,0 +1,263 @@
+[
+  {
+    "question": "Vilket element motsvarar Mynt i tarot?",
+    "answers": [
+      "Luft",
+      "Vatten",
+      "Eld",
+      "Jord"
+    ],
+    "correct": 3,
+    "explanation": "Mynt (eller Pentagram) står för jordelementet, kopplat till det materiella och kroppen.",
+    "category": "Element",
+    "difficulty": "Lätt",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Pents01.jpg"
+  },
+  {
+    "question": "Vilket element associeras med Svärd i tarot?",
+    "answers": [
+      "Luft",
+      "Vatten",
+      "Eld",
+      "Jord"
+    ],
+    "correct": 0,
+    "explanation": "Svärd representerar luftens element – kopplat till intellekt och kommunikation.",
+    "category": "Element",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Vilken svit i tarot representerar eld?",
+    "answers": [
+      "Bägare",
+      "Mynt",
+      "Svärd",
+      "Stavar"
+    ],
+    "correct": 3,
+    "explanation": "Stavar är kopplade till eld och symboliserar passion, drivkraft och handling.",
+    "category": "Element",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Vad står jordelementet för i tarotens symbolik?",
+    "answers": [
+      "Emotion",
+      "Stabilitet och materialism",
+      "Inspiration",
+      "Tankar"
+    ],
+    "correct": 1,
+    "explanation": "Jord står för fysiska resurser, kropp, trygghet och stabilitet.",
+    "category": "Element",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Vilken svit motsvarar känslor och relationer?",
+    "answers": [
+      "Stavar",
+      "Bägare",
+      "Svärd",
+      "Mynt"
+    ],
+    "correct": 1,
+    "explanation": "Bägare representerar vatten – känslor, kärlek och andlighet.",
+    "category": "Element",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Vad kännetecknar eld som element i tarot?",
+    "answers": [
+      "Reflektion och passivitet",
+      "Passion, handling och energi",
+      "Intellekt och analys",
+      "Stabilitet och ekonomi"
+    ],
+    "correct": 1,
+    "explanation": "Eld står för initiativ, passion, skaparkraft och rörelse – ofta kopplat till Stavar.",
+    "category": "Element",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Hur påverkar vattenelementet en tarotläsning?",
+    "answers": [
+      "Genom att framhäva strategiskt tänkande",
+      "Genom att förstärka känslor, relationer och intuition",
+      "Genom att skapa materiell stabilitet",
+      "Genom att ge tydliga regler"
+    ],
+    "correct": 1,
+    "explanation": "Vatten förstärker det emotionella och spirituella planet i en läggning.",
+    "category": "Element",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Vilken aspekt av livet representerar luft i tarot?",
+    "answers": [
+      "Känslor och flöde",
+      "Tanke, sanning och kommunikation",
+      "Materiella tillgångar",
+      "Kreativ kraft"
+    ],
+    "correct": 1,
+    "explanation": "Luft handlar om mentala processer, logik, idéer och konflikter.",
+    "category": "Element",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Hur visar sig jordelementet i praktiska tolkningar?",
+    "answers": [
+      "Som kreativa genombrott",
+      "Som emotionella utmaningar",
+      "Som arbete, ekonomi och kropp",
+      "Som drömmar och visioner"
+    ],
+    "correct": 2,
+    "explanation": "Jord manifesteras i vardagslivets konkreta aspekter – arbete, ekonomi, hälsa.",
+    "category": "Element",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Vilket element saknas om en läggning innehåller få eller inga Bägarkort?",
+    "answers": [
+      "Luft",
+      "Eld",
+      "Vatten",
+      "Jord"
+    ],
+    "correct": 2,
+    "explanation": "Bägare symboliserar vatten – deras frånvaro kan peka på känslomässig distans eller förtryckt intuition.",
+    "category": "Element",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Vilken kombination av element kan indikera en konflikt mellan tanke och känsla?",
+    "answers": [
+      "Luft och vatten",
+      "Jord och eld",
+      "Vatten och eld",
+      "Luft och jord"
+    ],
+    "correct": 0,
+    "explanation": "Luft står för logik och vatten för känsla – tillsammans kan de signalera inre splittring.",
+    "category": "Element",
+    "difficulty": "Medel"
+  },
+  {
+    "question": "Vilken svit i tarot är starkast kopplad till handling och motivation?",
+    "answers": [
+      "Bägare",
+      "Mynt",
+      "Stavar",
+      "Svärd"
+    ],
+    "correct": 2,
+    "explanation": "Stavar (eld) är kopplade till ambition, riktning och initiativkraft.",
+    "category": "Element",
+    "difficulty": "Medel"
+  },
+  {
+    "question": "Vad kan frånvaron av luft i en tarotläggning antyda?",
+    "answers": [
+      "Överanalys",
+      "Kreativitet och inspiration",
+      "Brist på kommunikation och mental klarhet",
+      "Materiell förvirring"
+    ],
+    "correct": 2,
+    "explanation": "Utan luftelementet kan klarhet, idéer och beslutsfattande saknas.",
+    "category": "Element",
+    "difficulty": "Medel"
+  },
+  {
+    "question": "Vad är en möjlig tolkning av många vattenkort i en läggning?",
+    "answers": [
+      "Praktiska möjligheter och arbete",
+      "Känslomässigt fokus, drömmar och intuition",
+      "Mental stimulans och förändring",
+      "Begränsning och stagnation"
+    ],
+    "correct": 1,
+    "explanation": "Vatten handlar om känslor, relationer, djup och andligt flöde.",
+    "category": "Element",
+    "difficulty": "Medel"
+  },
+  {
+    "question": "Vilket element kopplas till kroppen och fysiskt välmående i tarot?",
+    "answers": [
+      "Eld",
+      "Jord",
+      "Vatten",
+      "Luft"
+    ],
+    "correct": 1,
+    "explanation": "Jord är kopplad till kroppen, hälsa, arbete och den fysiska verkligheten.",
+    "category": "Element",
+    "difficulty": "Medel"
+  },
+  {
+    "question": "Hur kan en överrepresentation av eld i en tarotläggning tolkas?",
+    "answers": [
+      "En period av passivitet och reflektion",
+      "Överdriven impulsivitet och utbrändhet",
+      "Förlust av emotionell kontakt",
+      "Brist på struktur och planering"
+    ],
+    "correct": 1,
+    "explanation": "För mycket eld kan tyda på hetsig energi, brist på uthållighet och risk för att bränna ut sig.",
+    "category": "Element",
+    "difficulty": "Svår"
+  },
+  {
+    "question": "Hur samverkar luft- och vattenelement i en tarotläsning?",
+    "answers": [
+      "De skapar förvirring och osäkerhet",
+      "De kombinerar logik med känsla, vilket kräver balans",
+      "De förstärker materiella behov",
+      "De blockerar varandra helt"
+    ],
+    "correct": 1,
+    "explanation": "Luft och vatten representerar tanke respektive känsla – tillsammans krävs integrering för att undvika inre konflikt.",
+    "category": "Element",
+    "difficulty": "Svår"
+  },
+  {
+    "question": "Vad signalerar frånvaron av jordelementet i en tarotläggning?",
+    "answers": [
+      "Emotionell blockering",
+      "Andlig överaktivitet",
+      "Brist på förankring, stabilitet eller materiell närvaro",
+      "För stor kontroll över situationen"
+    ],
+    "correct": 2,
+    "explanation": "Utan jord saknas ofta struktur, fysisk närvaro, eller ekonomisk realism.",
+    "category": "Element",
+    "difficulty": "Svår"
+  },
+  {
+    "question": "Hur skiljer sig vattnets uttryck i hovkort jämfört med sviten Bägare?",
+    "answers": [
+      "Det är mer yttre och praktiskt",
+      "Det blir mer intellektuellt och distanserat",
+      "Det visar sig mer i roller och mognadsgrad än i händelser",
+      "Det förlorar sin koppling till känslor"
+    ],
+    "correct": 2,
+    "explanation": "Hovkort visar vattnets energi genom personlig utveckling och roller snarare än situationer.",
+    "category": "Element",
+    "difficulty": "Svår"
+  },
+  {
+    "question": "Vilket element balanserar eld i en tarotläggning där det finns risk för impulsivt agerande?",
+    "answers": [
+      "Jord – som ger struktur och realism",
+      "Vatten – som förstärker eld och passion",
+      "Luft – som undertrycker elden",
+      "Eld – mer eld krävs för klarhet"
+    ],
+    "correct": 0,
+    "explanation": "Jord dämpar eld med praktiskt fokus, lugn och grundning.",
+    "category": "Element",
+    "difficulty": "Svår"
+  }
+]

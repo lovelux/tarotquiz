@@ -1,0 +1,50 @@
+[
+    {
+      "question": "Vilket hovkort associeras med introspektion och känslomässig mognad?",
+      "answers": ["Page i Svärd", "Kung i Mynt", "Drottning i Bägare", "Riddare i Stavar"],
+      "correct": 2,
+      "explanation": "Drottning i Bägare symboliserar emotionell visdom och empatisk introspektion.",
+      "category": "Hovkort",
+      "difficulty": "Lätt"
+    },
+    {
+      "question": "Vilket hovkort symboliserar en nybörjare eller student?",
+      "answers": ["Page", "Riddare", "Drottning", "Kung"],
+      "correct": 0,
+      "explanation": "Page står för början, nyfikenhet och inlärning.",
+      "category": "Hovkort",
+      "difficulty": "Lätt"
+    },
+    {
+      "question": "Vad representerar Drottningen i hovkorten?",
+      "answers": ["Yttre auktoritet", "Inre mognad och bemästrande", "Tonåring", "Kaos"],
+      "correct": 1,
+      "explanation": "Drottningen står för inre bemästrande och emotionell visdom.",
+      "category": "Hovkort",
+      "difficulty": "Lätt"
+    },
+    {
+      "question": "Vilken roll har Riddaren i tarotens hovkort?",
+      "answers": ["Bebis", "Krigare och rörelse", "Passivitet", "Slumpen"],
+      "correct": 1,
+      "explanation": "Riddaren står för handling, rörelse och riktning i svitens energi.",
+      "category": "Hovkort",
+      "difficulty": "Lätt"
+    },
+    {
+      "question": "Vad kännetecknar Kungens energi i hovkorten?",
+      "answers": ["Kaotisk", "Oinspirerad", "Styrka, auktoritet och ansvar", "Naivitet"],
+      "correct": 2,
+      "explanation": "Kungen står för mästerskap, struktur och ledarskap.",
+      "category": "Hovkort",
+      "difficulty": "Lätt"
+    },
+    {
+      "question": "Vilket kort står närmast arketypen 'inre mentor'?",
+      "answers": ["Page", "Drottning", "Kung", "Riddare"],
+      "correct": 1,
+      "explanation": "Drottningen representerar ofta vår inre visdom och intuition.",
+      "category": "Hovkort",
+      "difficulty": "Lätt"
+    }
+  ]

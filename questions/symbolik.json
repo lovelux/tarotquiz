@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Vad symboliserar solen som ofta syns i tarotkort?",
+        "answers": [
+            "Klarhet, livskraft och medvetenhet",
+            "Tvivel, mörker och förlust",
+            "Instinkt, impuls och hemligheter",
+            "Kontroll, struktur och begränsning"
+        ],
+        "correct": 0,
+        "explanation": "Solen representerar sanning, glädje, liv och insikt – ett positivt och upplysande tecken.",
+        "category": "Symbolik"
+    },
+    {
+        "question": "Vad betyder vatten när det förekommer i tarotbilder?",
+        "answers": [
+            "Tankar och kommunikation",
+            "Känslor, intuition och undermedvetna",
+            "Materiella bekymmer och rikedom",
+            "Drivkraft, ambition och passion"
+        ],
+        "correct": 1,
+        "explanation": "Vatten står för det emotionella och intuitiva planet, ofta kopplat till Bägare.",
+        "category": "Symbolik"
+    },
+    {
+        "question": "Vad associeras med torn i tarotens bildspråk?",
+        "answers": [
+            "Andligt uppvaknande och upplysning",
+            "Kaos, kollaps och plötslig förändring",
+            "Inre frid och balans",
+            "Mystik och hemlig kunskap"
+        ],
+        "correct": 1,
+        "explanation": "Tornet symboliserar dramatiska avslöjanden, plötsliga chocker och kollaps av illusioner.",
+        "category": "Symbolik"
+    },
+    {
+        "question": "Vad betyder rosor i tarotkortens illustrationer?",
+        "answers": [
+            "Makt, kontroll och skuggarbete",
+            "Oskyldighet, passion och andlig blomning",
+            "Längtan, separation och distans",
+            "Disciplin och återhållsamhet"
+        ],
+        "correct": 1,
+        "explanation": "Rosor är ofta symbol för renhet, passion, skönhet och andlig blomning.",
+        "category": "Symbolik"
+    },
+    {
+        "question": "Vad står fjärilar för i tarotkortens symbolvärld?",
+        "answers": [
+            "Förfall, stagnation och förlust",
+            "Intellektuell kamp och konflikt",
+            "Transformation, frihet och förnyelse",
+            "Styrka, kraft och stabilitet"
+        ],
+        "correct": 2,
+        "explanation": "Fjärilar representerar förändring, utveckling och själens frigörelse.",
+        "category": "Symbolik"
+    },
+    {
+        "question": "Vad symboliserar svärd i tarotens bildspråk?",
+        "answers": [
+            "Mental skärpa, konflikter och intellekt",
+            "Känslor, romantik och flöde",
+            "Skörd, vila och överflöd",
+            "Andlig vägledning och tystnad"
+        ],
+        "correct": 0,
+        "explanation": "Svärd representerar luft – det mentala planet, klarhet och utmaningar.",
+        "category": "Symbolik"
+    },
+    {
+        "question": "Vad står ett berg i bakgrunden ofta för i tarotkort?",
+        "answers": [
+            "Hinder och mål",
+            "Fart och rörelse",
+            "Sorg och förlust",
+            "Inre styrka och självförtroende"
+        ],
+        "correct": 0,
+        "explanation": "Berg symboliserar utmaningar att övervinna och andlig höjd.",
+        "category": "Symbolik"
+    },
+    {
+        "question": "Vad betyder en krona i tarotkortens symbolik?",
+        "answers": [
+            "Intellektuell mognad och auktoritet",
+            "Lekfullhet och spontanitet",
+            "Känslomässig osäkerhet",
+            "Förändring och osäkerhet"
+        ],
+        "correct": 0,
+        "explanation": "Kronor signalerar bemästrande, visdom eller andlig dominans.",
+        "category": "Symbolik"
+    },
+    {
+        "question": "Vad förmedlar en fjäder i tarotkortens symbolik?",
+        "answers": [
+            "Lätthet, frihet och andlig kontakt",
+            "Beslutsamhet och stabilitet",
+            "Förlust och sorg",
+            "Slutgiltighet och stagnation"
+        ],
+        "correct": 0,
+        "explanation": "Fjädern är ofta kopplad till andlig vägledning och det eteriska.",
+        "category": "Symbolik"
+    },
+    {
+        "question": "Vad står vattenfall för i tarotens symbolsystem?",
+        "answers": [
+            "Kraftfullt känslouttryck och transformation",
+            "Långsam process och tålamod",
+            "Skydd och gränssättning",
+            "Stillhet och vila"
+        ],
+        "correct": 0,
+        "explanation": "Vattenfall visar på känslor i rörelse och övergång till ny fas.",
+        "category": "Symbolik"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+      "question": "Vilken siffra står för stabilitet i tarotens numerologi?",
+      "answers": ["4", "3", "6", "5"],
+      "correct": 0,
+      "explanation": "Siffran 4 representerar struktur, stabilitet och grundläggning i numerologi.",
+      "category": "Numerologi"
+    },
+    {
+      "question": "Vilket element motsvarar Mynt i tarot?",
+      "answers": ["Luft", "Vatten", "Eld", "Jord"],
+      "correct": 3,
+      "explanation": "Mynt (eller Pentagram) står för jordelementet, kopplat till det materiella och kroppen.",
+      "category": "Element"
+    },
+    {
+      "question": "Vilket hovkort associeras med introspektion och känslomässig mognad?",
+      "answers": ["Page i Svärd", "Kung i Mynt", "Drottning i Bägare", "Riddare i Stavar"],
+      "correct": 2,
+      "explanation": "Drottning i Bägare symboliserar emotionell visdom och empatisk introspektion.",
+      "category": "Hovkort"
+    },
+    {
+      "question": "Vilket kort i Stora Arkanan symboliserar balans, rättvisa och objektivitet?",
+      "answers": ["Rättvisa", "Domedagen", "Kejsaren", "Hierofanten"],
+      "correct": 0,
+      "explanation": "Rättvisa står för balans, rättvisa, sanning och etiska beslut.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vilken siffra står för ny början och potential?",
+      "answers": ["10", "1", "0", "8"],
+      "correct": 1,
+      "explanation": "Siffran 1 representerar initiativ, skapande kraft och ny början.",
+      "category": "Numerologi"
+    },
+    {
+      "question": "Vad är den huvudsakliga energin i Svärdsviten?",
+      "answers": ["Känslor", "Intellekt", "Handling", "Materialism"],
+      "correct": 1,
+      "explanation": "Svärd handlar om intellekt, sanning, idéer och mental klarhet.",
+      "category": "Element"
+    },
+    {
+      "question": "Vilket hovkort symboliserar en nybörjare eller student?",
+      "answers": ["Page", "Riddare", "Drottning", "Kung"],
+      "correct": 0,
+      "explanation": "Page representerar nyfikenhet, lärande och det första steget i utveckling.",
+      "category": "Hovkort"
+    },
+    {
+      "question": "Vad symboliserar kortet 'Tornet' i Stora Arkanan?",
+      "answers": ["Kaos och omvälvning", "Balans", "Trygghet", "Kärlek"],
+      "correct": 0,
+      "explanation": "Tornet står för plötsliga förändringar, chock och nödvändig förnyelse.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad representerar siffran 3 i tarotens numerologi?",
+      "answers": ["Utmaning", "Expansion och kreativitet", "Slutpunkt", "Intuition"],
+      "correct": 1,
+      "explanation": "Siffran 3 representerar tillväxt, uttryck, kreativitet och expansion.",
+      "category": "Numerologi"
+    },
+    {
+      "question": "Vad är svitens huvudtema i Bägare?",
+      "answers": ["Kommunikation", "Känslor och relationer", "Styrka", "Kamp"],
+      "correct": 1,
+      "explanation": "Bägare relaterar till vatten och symboliserar känslor, intuition och relationer.",
+      "category": "Element"
+    }
+  ]  

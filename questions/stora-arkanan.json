@@ -1,0 +1,184 @@
+[
+    {
+      "question": "Vilket kort i Stora Arkanan symboliserar balans, rättvisa och objektivitet?",
+      "answers": ["Rättvisa", "Domedagen", "Kejsaren", "Hierofanten"],
+      "correct": 0,
+      "explanation": "Rättvisa står för balans, rättvisa, sanning och etiska beslut.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad symboliserar kortet Narren i tarot?",
+      "answers": ["Slutet", "Stagnation", "Början, oskuld, äventyr", "Styrka"],
+      "correct": 2,
+      "explanation": "Narren är kort 0 och representerar starten på en resa.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad representerar kortet Styrka i Stora Arkanan?",
+      "answers": ["Maktmissbruk", "Sårbarhet", "Inre styrka, mod och självkontroll", "Krig"],
+      "correct": 2,
+      "explanation": "Styrka handlar om mod, inre balans och självbehärskning.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad står kortet Tornet för?",
+      "answers": ["Plötslig förändring, kaos och sanning", "Lycka", "Överflöd", "Frid"],
+      "correct": 0,
+      "explanation": "Tornet är kris, uppvaknande, krasch och transformation.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad symboliserar kortet Narren (0) i tarot?",
+      "answers": ["Början, oskuld och äventyr", "Slutlig insikt", "Inre kamp och förlust", "Förvirrad stagnation"],
+      "correct": 0,
+      "explanation": "Början, oskuld och äventyr är kärnan i detta korts betydelse.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad symboliserar kortet Magikern (1) i tarot?",
+      "answers": ["Intuitiv vila", "Drömmar och fantasier", "Manifestation, fokus och viljestyrka", "Inre känslokaos"],
+      "correct": 2,
+      "explanation": "Manifestation, fokus och viljestyrka är kärnan i detta korts betydelse.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad symboliserar kortet Översteprästinnan (2) i tarot?",
+      "answers": ["Tankekontroll och struktur", "Intuition och det undermedvetna", "Direkt kommunikation", "Yttre styrka och makt"],
+      "correct": 1,
+      "explanation": "Intuition och det undermedvetna är kärnan i detta korts betydelse.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad symboliserar kortet Kejsarinnan (3) i tarot?",
+      "answers": ["Skapande, näring och överflöd", "Mental disciplin", "Energisk handling", "Begränsande regler"],
+      "correct": 0,
+      "explanation": "Skapande, näring och överflöd är kärnan i detta korts betydelse.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad symboliserar kortet Kejsaren (4) i tarot?",
+      "answers": ["Styrka, struktur och fadersgestalt", "Kreativ förvirring", "Emotionell sårbarhet", "Spontanitet och njutning"],
+      "correct": 0,
+      "explanation": "Styrka, struktur och fadersgestalt är kärnan i detta korts betydelse.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad symboliserar kortet Hierofanten (5) i tarot?",
+      "answers": ["Tradition och andlig vägledning", "Driv och passion", "Känslomässig expansion", "Oberoende beslut"],
+      "correct": 0,
+      "explanation": "Tradition och andlig vägledning är kärnan i detta korts betydelse.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad symboliserar kortet De Älskande (6) i tarot?",
+      "answers": ["Tyst retreat", "Upprepning och stagnation", "Fysisk återhämtning", "Val, kärlek och förening"],
+      "correct": 3,
+      "explanation": "Val, kärlek och förening är kärnan i detta korts betydelse.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad symboliserar kortet Vagnen (7) i tarot?",
+      "answers": ["Framgång genom vilja och kontroll", "Drömvärldens mysterier", "Förlust av fokus", "Inre vila och acceptans"],
+      "correct": 0,
+      "explanation": "Framgång genom vilja och kontroll är kärnan i detta korts betydelse.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad symboliserar kortet Styrka (8) i tarot?",
+      "answers": ["Tillbakadragenhet", "Yttre dominans", "Osäkerhet och kamp", "Inre mod, tålamod och balans"],
+      "correct": 3,
+      "explanation": "Inre mod, tålamod och balans är kärnan i detta korts betydelse.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad symboliserar kortet Eremiten (9) i tarot?",
+      "answers": ["Aktiv påverkan", "Sensuell njutning", "Balans och firande", "Inre sökande, visdom och ensamhet"],
+      "correct": 3,
+      "explanation": "Inre sökande, visdom och ensamhet är kärnan i detta korts betydelse.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad symboliserar kortet Ödeshjulet (10) i tarot?",
+      "answers": ["Strikt kontroll", "Djup sorg", "Känslomässigt beroende", "Slump, förändring och livets cykler"],
+      "correct": 3,
+      "explanation": "Slump, förändring och livets cykler är kärnan i detta korts betydelse.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad symboliserar kortet Rättvisa (11) i tarot?",
+      "answers": ["Slutlig separation", "Fantasi och magi", "Inspiration och hopp", "Sanning, balans och konsekvens"],
+      "correct": 3,
+      "explanation": "Sanning, balans och konsekvens är kärnan i detta korts betydelse.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad symboliserar kortet Den Hängde (12) i tarot?",
+      "answers": ["Djup relation", "Yttre auktoritet", "Uppoffring, perspektivskifte och tålamod", "Omedelbar handling"],
+      "correct": 2,
+      "explanation": "Uppoffring, perspektivskifte och tålamod är kärnan i detta korts betydelse.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad symboliserar kortet Döden (13) i tarot?",
+      "answers": ["Klar framtidsvision", "Harmoni och fred", "Emotionell tillväxt", "Transformation och slutet på en cykel"],
+      "correct": 3,
+      "explanation": "Transformation och slutet på en cykel är kärnan i detta korts betydelse.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad symboliserar kortet Måttfullhet (14) i tarot?",
+      "answers": ["Kraftfull impulsivitet", "Total självständighet", "Skuggarbete och rädslor", "Balans, harmoni och helande"],
+      "correct": 3,
+      "explanation": "Balans, harmoni och helande är kärnan i detta korts betydelse.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad symboliserar kortet Djävulen (15) i tarot?",
+      "answers": ["Självständig balans", "Hälsosamma rutiner", "Lättsam romantik", "Beroende, skuggsidor och begär"],
+      "correct": 3,
+      "explanation": "Beroende, skuggsidor och begär är kärnan i detta korts betydelse.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad symboliserar kortet Tornet (16) i tarot?",
+      "answers": ["Känslomässig stabilitet", "Andlig förening", "Trygg struktur", "Plötslig kollaps och uppvaknande"],
+      "correct": 3,
+      "explanation": "Plötslig kollaps och uppvaknande är kärnan i detta korts betydelse.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad symboliserar kortet Stjärnan (17) i tarot?",
+      "answers": ["Stressig förväntan", "Kreativ stagnation", "Mörk tvivelprocess", "Hopp, andlig kontakt och inspiration"],
+      "correct": 3,
+      "explanation": "Hopp, andlig kontakt och inspiration är kärnan i detta korts betydelse.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad symboliserar kortet Månen (18) i tarot?",
+      "answers": ["Tydlig insikt", "Klar verklighetsförankring", "Logisk styrning", "Drömmar, illusioner och det omedvetna"],
+      "correct": 3,
+      "explanation": "Drömmar, illusioner och det omedvetna är kärnan i detta korts betydelse.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad symboliserar kortet Solen (19) i tarot?",
+      "answers": ["Passiv åskådarroll", "Emotionell distans", "Mörker och oro", "Glädje, framgång och medvetenhet"],
+      "correct": 3,
+      "explanation": "Glädje, framgång och medvetenhet är kärnan i detta korts betydelse.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad symboliserar kortet Domedagen (20) i tarot?",
+      "answers": ["Flyktsökande vanor", "Stagnation i det gamla", "Känslomässig reträtt", "Uppvaknande, ansvar och pånyttfödelse"],
+      "correct": 3,
+      "explanation": "Uppvaknande, ansvar och pånyttfödelse är kärnan i detta korts betydelse.",
+      "category": "Stora Arkanan"
+    },
+    {
+      "question": "Vad symboliserar kortet Världen (21) i tarot?",
+      "answers": ["Känslomässig blockering", "Isolering och förlust", "Emotionell splittring", "Fullbordan, enhet och expansion"],
+      "correct": 3,
+      "explanation": "Fullbordan, enhet och expansion är kärnan i detta korts betydelse.",
+      "category": "Stora Arkanan"
+    }
+  ]

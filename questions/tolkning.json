@@ -1,0 +1,192 @@
+[
+    {
+        "question": "Hur förändras ett korts betydelse när det ligger uppochned (omvänt)?",
+        "answers": [
+            "Det får en ny och ofta utmanande nyans",
+            "Det blir ogiltigt i tolkningen",
+            "Det representerar alltid tur",
+            "Det måste ignoreras"
+        ],
+        "correct": 0,
+        "explanation": "Ett omvänt kort signalerar ofta blockering, fördröjning eller en inre aspekt av kortets energi.",
+        "category": "Tolkning och kontext"
+    },
+    {
+        "question": "Vad innebär det om flera kort från samma svit dyker upp i en läggning?",
+        "answers": [
+            "Det indikerar ett starkt tema kopplat till den sviten",
+            "Det betyder att man bör dra nya kort",
+            "Det visar på förvirring i frågan",
+            "Det ogiltigförklarar tolkningen"
+        ],
+        "correct": 0,
+        "explanation": "En svitdominans pekar på att elementet och dess betydelse är centralt i situationen.",
+        "category": "Tolkning och kontext"
+    },
+    {
+        "question": "Vad symboliserar det när Döden följs av Solen i en läggning?",
+        "answers": [
+            "Total undergång",
+            "Ljus efter transformation",
+            "Att något förloras för alltid",
+            "En fysisk död i familjen"
+        ],
+        "correct": 1,
+        "explanation": "Döden + Solen visar på en positiv ny början efter avslut eller förändring.",
+        "category": "Tolkning och kontext"
+    },
+    {
+        "question": "I en tre-korts-läggning: vad representerar ofta det mittersta kortet?",
+        "answers": [
+            "Det förflutna",
+            "Framtiden",
+            "Nutiden eller kärnan i situationen",
+            "Ett slumpmässigt kort"
+        ],
+        "correct": 2,
+        "explanation": "Mittenkortet representerar ofta nuläget eller kärnan i frågan.",
+        "category": "Tolkning och kontext"
+    },
+    {
+        "question": "Hur påverkas ett kort av sin position i en större läggning som Celtic Cross?",
+        "answers": [
+            "Positionen visar vilket aspekt av kortets energi som är aktiv",
+            "Kortet tolkas alltid likadant oavsett plats",
+            "Endast kortets nummer spelar roll",
+            "Celtic Cross ignorerar positioner"
+        ],
+        "correct": 0,
+        "explanation": "I större läggningar påverkar positionen betydelsen, t.ex. 'förflutet', 'utmaning', 'möjlighet'.",
+        "category": "Tolkning och kontext"
+    },
+    {
+        "question": "Vad antyder en kombination av Styrka följt av Tornet?",
+        "answers": [
+            "En inre resa mot stillhet",
+            "Uthållighet som utlöser nödvändig kollaps",
+            "Emotionell förnekelse",
+            "Rädsla för förändring och undvikande"
+        ],
+        "correct": 1,
+        "explanation": "Styrka före Tornet antyder att mod och uthållighet leder till ett nödvändigt sammanbrott – en djupare befrielse.",
+        "category": "Tolkning och kontext",
+        "difficulty": "Medel"
+    },
+    {
+        "question": "Vad betyder det när Djävulen följs av Döden?",
+        "answers": [
+            "Andlig fördjupning",
+            "En frigörelse från beroenden genom transformation",
+            "Ökad materiell framgång",
+            "Stagnation och isolering"
+        ],
+        "correct": 1,
+        "explanation": "Djävulen står för bundenhet och Döden för avslut – tillsammans tyder de på kraftfull frigörelse.",
+        "category": "Tolkning och kontext",
+        "difficulty": "Medel"
+    },
+    {
+        "question": "Hur påverkar Rättvisa efter De Älskande en tolkning?",
+        "answers": [
+            "En passionerad kärleksrelation",
+            "En obalanserad maktdynamik",
+            "Ett nödvändigt val som kräver objektivitet och ansvar",
+            "En impulsiv romans"
+        ],
+        "correct": 2,
+        "explanation": "De Älskande handlar om val – Rättvisa efteråt betonar vikten av att fatta beslut med integritet.",
+        "category": "Tolkning och kontext",
+        "difficulty": "Medel"
+    },
+    {
+        "question": "Vad antyder kortkombinationen Vagnen + Åttan i Svärd?",
+        "answers": [
+            "Ett andligt genombrott",
+            "En inre konflikt trots yttre framgång",
+            "Full kontroll över situationen",
+            "Styrd av känslor"
+        ],
+        "correct": 1,
+        "explanation": "Vagnen är seger utåt – men Åttan i Svärd visar på mentala begränsningar inombords.",
+        "category": "Tolkning och kontext",
+        "difficulty": "Medel"
+    },
+    {
+        "question": "Hur tolkas Solen följt av Månen i en läggning?",
+        "answers": [
+            "Tydlighet som leder till illusion",
+            "En cyklisk rörelse från ljus till mörker",
+            "En upplysning följd av tvivel och djupare sökande",
+            "Ett abrupt slut på relationer"
+        ],
+        "correct": 2,
+        "explanation": "Solen visar sanning – Månen därefter kan signalera ett behov att bearbeta undermedvetna skuggor som blottlagts.",
+        "category": "Tolkning och kontext",
+        "difficulty": "Medel"
+    },
+    {
+        "question": "Vad kan en sekvens av Tornet följt av Stjärnan avslöja i en tarotläsning?",
+        "answers": [
+            "En ny andlig kris",
+            "Mörker som förvärras",
+            "Förlust av mening och syfte",
+            "Ett plötsligt uppvaknande följt av hopp och återhämtning"
+        ],
+        "correct": 3,
+        "explanation": "Tornet representerar kollaps av illusioner, medan Stjärnan visar på hopp efter kris och ny andlig kontakt.",
+        "category": "Tolkning och kontext",
+        "difficulty": "Svår"
+    },
+    {
+        "question": "Hur tolkas Djävulen + Älskarna i en läggning om relationer?",
+        "answers": [
+            "En trygg och balanserad relation",
+            "En passionerad relation som riskerar att vara beroendebaserad",
+            "Ett mentalt partnerskap utan känslor",
+            "Ett destruktivt slut"
+        ],
+        "correct": 1,
+        "explanation": "Djävulen kan indikera begär och bundenhet, medan Älskarna handlar om val – tillsammans kan det signalera beroendedynamik.",
+        "category": "Tolkning och kontext",
+        "difficulty": "Svår"
+    },
+    {
+        "question": "Hur kan Narren följt av Översteprästinnan tolkas i ett andligt sammanhang?",
+        "answers": [
+            "Ytlighet utan riktning",
+            "Ett steg bort från intuition",
+            "En oskuldsfull början som leder till djup inre visdom",
+            "Att undvika ansvar"
+        ],
+        "correct": 2,
+        "explanation": "Narren står för öppenhet, medan Översteprästinnan signalerar inre lyssnande – en kraftfull andlig resa börjar.",
+        "category": "Tolkning och kontext",
+        "difficulty": "Svår"
+    },
+    {
+        "question": "Vad innebär det när Månen följs av Solen i en läggning?",
+        "answers": [
+            "Att illusioner blir starkare",
+            "Att det undermedvetna överväldigar",
+            "Att sanning och klarhet kommer efter en period av förvirring",
+            "Att relationer bryts ner"
+        ],
+        "correct": 2,
+        "explanation": "Månen står för inre skuggor och osäkerhet, medan Solen står för sanning, medvetenhet och insikt.",
+        "category": "Tolkning och kontext",
+        "difficulty": "Svår"
+    },
+    {
+        "question": "Hur kan en kombination av Vagnen + Hängde Mannen tolkas?",
+        "answers": [
+            "Obegränsad rörelse",
+            "Emotionellt sammanbrott",
+            "Målmedvetenhet som möter behovet av att släppa kontrollen",
+            "Impulsivt sökande efter svar"
+        ],
+        "correct": 2,
+        "explanation": "Vagnen står för kontroll och riktning, medan Hängde Mannen kräver överlåtelse – tillsammans visar de en konflikt mellan vilja och överlämning.",
+        "category": "Tolkning och kontext",
+        "difficulty": "Svår"
+    }
+]

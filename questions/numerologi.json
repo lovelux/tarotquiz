@@ -1,0 +1,366 @@
+[
+  {
+    "question": "Vilken siffra står för stabilitet i tarotens numerologi?",
+    "answers": [
+      "4",
+      "3",
+      "6",
+      "5"
+    ],
+    "correct": 0,
+    "explanation": "Siffran 4 representerar struktur, stabilitet och grundläggning i numerologi.",
+    "category": "Numerologi",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Vad betyder siffran 2 i tarotens numerologi?",
+    "answers": [
+      "Dualitet och balans",
+      "Ledarskap",
+      "Kaos",
+      "Avslut"
+    ],
+    "correct": 0,
+    "explanation": "Siffran 2 står för balans, relationer och samarbete.",
+    "category": "Numerologi",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Vad symboliserar siffran 5 i tarot?",
+    "answers": [
+      "Stabilitet",
+      "Förändring och utmaning",
+      "Fullbordan",
+      "Intuition"
+    ],
+    "correct": 1,
+    "explanation": "5 innebär förändring, konflikt och möjlighet till växande.",
+    "category": "Numerologi",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Vilken siffra representerar helhet eller avslut i tarot?",
+    "answers": [
+      "7",
+      "9",
+      "10",
+      "0"
+    ],
+    "correct": 2,
+    "explanation": "Siffran 10 står för avslutning och potentiellt en ny början.",
+    "category": "Numerologi",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Vad betyder siffran 1 i tarot?",
+    "answers": [
+      "Nybörjan och potential",
+      "Stabilitet",
+      "Destruktion",
+      "Överflöd"
+    ],
+    "correct": 0,
+    "explanation": "1 är början på allt – initiativ och möjlighet.",
+    "category": "Numerologi",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Siffran 3 i tarot förknippas ofta med...",
+    "answers": [
+      "Passivitet",
+      "Skapande och uttryck",
+      "Konflikt",
+      "Makt"
+    ],
+    "correct": 1,
+    "explanation": "Siffran 3 står för kreativitet, fertilitet och uttryck.",
+    "category": "Numerologi",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Vad symboliserar siffran 0 i tarotens numerologi?",
+    "answers": [
+      "Oändlig potential och tomhet",
+      "Fullbordan och resultat",
+      "Stabil grund och rötter",
+      "Konflikt och omvandling"
+    ],
+    "correct": 0,
+    "explanation": "Siffran 0 representerar ett rent potentiellt tillstånd – början före början.",
+    "category": "Numerologi",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Vad betyder siffran 1 i tarotens struktur?",
+    "answers": [
+      "Expansion och kommunikation",
+      "Skapande början och initiativ",
+      "Reflektion och stillhet",
+      "Sorg och förlust"
+    ],
+    "correct": 1,
+    "explanation": "1 står för start, individualitet och skaparkraft.",
+    "category": "Numerologi",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Vad representerar siffran 2 i tarot?",
+    "answers": [
+      "Slut på en cykel",
+      "Makt och dominans",
+      "Balans, dualitet och samarbete",
+      "Kaos och sammanbrott"
+    ],
+    "correct": 2,
+    "explanation": "2 handlar om relationer, spegling och val mellan motsatser.",
+    "category": "Numerologi",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Vilken innebörd har siffran 3 i tarot?",
+    "answers": [
+      "Rädsla och motstånd",
+      "Kreativitet, tillväxt och uttryck",
+      "Mörker och transformation",
+      "Disciplin och hierarki"
+    ],
+    "correct": 1,
+    "explanation": "3 står för skapande, fertilitet och kreativ expansion.",
+    "category": "Numerologi",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Vad står siffran 4 för i tarots numerologi?",
+    "answers": [
+      "Fördjupning och mystik",
+      "Rörlighet och förändring",
+      "Struktur, stabilitet och trygghet",
+      "Total upplösning"
+    ],
+    "correct": 2,
+    "explanation": "4 är grunden – struktur, ordning och materiell säkerhet.",
+    "category": "Numerologi",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Vad symboliserar siffran 5 i tarot?",
+    "answers": [
+      "Mellanläge, prövning och förändring",
+      "Helighet och renhet",
+      "Stark självkontroll",
+      "Fullbordad cykel"
+    ],
+    "correct": 0,
+    "explanation": "5 står för konflikt, omvälvning och möjligheten till utveckling.",
+    "category": "Numerologi",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Vad betyder siffran 6 i tarotleken?",
+    "answers": [
+      "Skördetid",
+      "Kärlek, harmoni och val",
+      "Oro och misstro",
+      "Yttre kontroll"
+    ],
+    "correct": 1,
+    "explanation": "6 representerar kärlek, förening och helande efter kamp.",
+    "category": "Numerologi",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Vad innebär siffran 7 i tarot?",
+    "answers": [
+      "Yttre prestation",
+      "Emotionell stabilitet",
+      "Inre sökande och andlig visdom",
+      "Stagnation"
+    ],
+    "correct": 2,
+    "explanation": "7 står för introspektion, tro och djupare förståelse.",
+    "category": "Numerologi",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Vad står siffran 8 för i tarotens numerologi?",
+    "answers": [
+      "Lek och spontanitet",
+      "Styrka, balans och kraftmanifestation",
+      "Nedbrytning och smärta",
+      "Passivitet"
+    ],
+    "correct": 1,
+    "explanation": "8 handlar om makt, återhållsamhet och karmisk balans.",
+    "category": "Numerologi",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Vad betyder siffran 9 i tarot?",
+    "answers": [
+      "Nybörjan och förväntan",
+      "Fulländning, skörd och avslut",
+      "Tvekan och passivitet",
+      "Tillbakagång och motstånd"
+    ],
+    "correct": 1,
+    "explanation": "9 symboliserar resultatet av en resa, ofta med visdom och ensamhet.",
+    "category": "Numerologi",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Vad representerar siffran 10 i tarot?",
+    "answers": [
+      "Kaos och separation",
+      "Starten på ett nytt äventyr",
+      "Cirkelslutning och ny potential",
+      "Motstånd mot förändring"
+    ],
+    "correct": 2,
+    "explanation": "10 är både avslut och början – slutet på en cykel med öppning till nästa.",
+    "category": "Numerologi",
+    "difficulty": "Lätt"
+  },
+  {
+    "question": "Hur påverkar siffran 4 tolkningen av ett kort i tarot?",
+    "answers": [
+      "Den antyder instabilitet och förändring",
+      "Den förstärker teman av struktur, trygghet och ramar",
+      "Den kopplar till känslomässiga prövningar",
+      "Den signalerar slutet på en cykel"
+    ],
+    "correct": 1,
+    "explanation": "Siffran 4 representerar grund, stabilitet och materiell trygghet – vilket färgar kortets tema.",
+    "category": "Numerologi",
+    "difficulty": "Medel"
+  },
+  {
+    "question": "Vad innebär siffran 7 i tarotens numerologi?",
+    "answers": [
+      "Praktiskt ansvar och materiell kontroll",
+      "Kreativ expansion och uttryck",
+      "Sökande efter mening, inre utveckling och andlig reflektion",
+      "Dualitet och känslomässig konflikt"
+    ],
+    "correct": 2,
+    "explanation": "Sjuan representerar inre sökande, kontemplation och ibland utmaningar på vägen till självinsikt.",
+    "category": "Numerologi",
+    "difficulty": "Medel"
+  },
+  {
+    "question": "Vilken aspekt representerar siffran 5 i de mindre arkanakorten?",
+    "answers": [
+      "Förlust och regression",
+      "Förändring, konflikt och potential för tillväxt",
+      "Stabilitet och tradition",
+      "Framgång och manifestation"
+    ],
+    "correct": 1,
+    "explanation": "Femman står ofta för utmaning, disharmoni och personlig prövning – men också möjlighet till utveckling.",
+    "category": "Numerologi",
+    "difficulty": "Medel"
+  },
+  {
+    "question": "Hur skiljer sig tolkningen av siffran 9 från siffran 3 i tarot?",
+    "answers": [
+      "Nian är mer känslobaserad än trean",
+      "Nian handlar om slutförande och självinsikt, medan trean står för kreativ början och samarbete",
+      "Trean handlar om ansvar och nian om kaos",
+      "De är båda kopplade till jordens element"
+    ],
+    "correct": 1,
+    "explanation": "Trean är kreativ och uttrycksfull, medan nian visar uppnådd mognad och ett avslut.",
+    "category": "Numerologi",
+    "difficulty": "Medel"
+  },
+  {
+    "question": "Vilket tema är mest kopplat till siffran 6 i tarot?",
+    "answers": [
+      "Fysisk manifestation",
+      "Inre konflikt",
+      "Balans, kärlek och valmöjligheter",
+      "Slutgiltigt uppvaknande"
+    ],
+    "correct": 2,
+    "explanation": "Siffran 6 relaterar ofta till relationer, harmoni och moraliska eller känslomässiga val.",
+    "category": "Numerologi",
+    "difficulty": "Medel"
+  },
+  {
+    "question": "Hur manifesteras siffran 8 olika i korten från Stora Arkanan och Lilla Arkanan?",
+    "answers": [
+      "I Stora Arkanan som kontroll, i Lilla Arkanan som överflöd",
+      "Som yttre kaos i båda fallen",
+      "I Stora Arkanan som balans, i Lilla Arkanan som inre konflikt",
+      "Bara i Lilla Arkanan, Stora använder inte siffran 8"
+    ],
+    "correct": 0,
+    "explanation": "I Stora Arkanan (kortet Styrka) visar 8 på inre kontroll och disciplin. I Lilla Arkanan (t.ex. 8 i Mynt) är det ofta kopplat till arbete, flöde eller produktivitet.",
+    "category": "Numerologi",
+    "difficulty": "Svår"
+  },
+  {
+    "question": "Vad är ett kännetecken för nian (9) i alla fyra sviterna?",
+    "answers": [
+      "Nyanser av osäkerhet och rädsla",
+      "Symbolik för mognad, fullbordan eller ensam reflektion",
+      "Total kollaps och ny början",
+      "Emotionell impulsivitet"
+    ],
+    "correct": 1,
+    "explanation": "Siffran 9 markerar oftast ett sista steg i en cykel, ofta ensam, kontemplativ eller avslutande.",
+    "category": "Numerologi",
+    "difficulty": "Svår"
+  },
+  {
+    "question": "Hur särskiljer sig siffran 2 från siffran 6 inom tarottolkning?",
+    "answers": [
+      "2 handlar om tvivel, 6 om glädje",
+      "2 betonar balans mellan två krafter, 6 kretsar kring harmoni inom ett större sammanhang",
+      "Båda handlar om impulsiv rörelse",
+      "6 är mer intellektuell än 2"
+    ],
+    "correct": 1,
+    "explanation": "2 är ofta polariserad eller obeslutsam, medan 6 visar på integration, kärlek eller ansvarstagande.",
+    "category": "Numerologi",
+    "difficulty": "Svår"
+  },
+  {
+    "question": "Vilken numerologisk betydelse har talet 10 i tarot, bortom avslut?",
+    "answers": [
+      "Det representerar misslyckande",
+      "Det står för illusion och förvirring",
+      "Det signalerar en övergång – avslut som föder nytt",
+      "Det tyder på stagnation i utveckling"
+    ],
+    "correct": 2,
+    "explanation": "10 innebär ett avslut men även potential till återfödelse, ofta knutet till början på en ny spiral.",
+    "category": "Numerologi",
+    "difficulty": "Svår"
+  },
+  {
+    "question": "Hur fungerar siffran 3 symboliskt i sviten Svärd jämfört med Bägare?",
+    "answers": [
+      "I båda handlar det om relationell förlust",
+      "I Svärd representerar det hjärtesorg, i Bägare firande och gemenskap",
+      "Det betyder sorg i båda fallen",
+      "Det står för konflikt mellan grupper"
+    ],
+    "correct": 1,
+    "explanation": "3 i Svärd (Hjärtesorg) visar en smärtsam sida av relationer, medan 3 i Bägare uttrycker vänskap och samhörighet.",
+    "category": "Numerologi",
+    "difficulty": "Svår"
+  }, 
+  {
+    "question": "Hur fungerar siffran 3 symboliskt i sviten Svärd jämfört med Bägare?",
+    "answers": [
+      "I båda handlar det om relationell förlust",
+      "I Svärd representerar det hjärtesorg, i Bägare firande och gemenskap",
+      "Det betyder sorg i båda fallen",
+      "Det står för konflikt mellan grupper"
+    ],
+    "correct": 1,
+    "explanation": "3 i Svärd (Hjärtesorg) visar en smärtsam sida av relationer, medan 3 i Bägare uttrycker vänskap och samhörighet.",
+    "category": "Numerologi",
+    "difficulty": "Svår"
+  }
+]

@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tarotquiz</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-image: url('https://upload.wikimedia.org/wikipedia/commons/9/90/RWS_Tarot_00_Fool.jpg');
+      background-size: cover;
+      background-position: center;
+    }
+    .overlay {
+      background: rgba(0, 0, 0, 0.7);
+    }
+  </style>
+</head>
+<body class="min-h-screen flex items-center justify-center text-white">
+  <div class="overlay p-8 rounded-2xl shadow-2xl max-w-xl w-full text-center">
+    <h1 class="text-3xl font-bold mb-6"> Tarotquiz</h1>
+    <div class="mb-4">
+      <label for="question-count" class="block text-sm text-gray-300 mb-2">Välj antal frågor:</label>
+      <select id="question-count" class="text-black rounded p-2 mb-4">
+        <option value="3">3</option>
+        <option value="5">5</option>
+        <option value="7" selected>7</option>
+      </select>
+
+      <label for="category-select" class="block text-sm text-gray-300 mb-2">Välj kategori:</label>
+      <select id="category-select" class="text-black rounded p-2 mb-4">
+        <option value="Alla">Alla</option>
+        <option value="Symbolik">Symbolik</option>
+        <option value="Element">Element</option>
+        <option value="Numerologi">Numerologi</option>
+        <option value="Hovkort">Hovkort</option>
+        <option value="Tolkning och kontext">Tolkning och kontext</option>
+      </select>
+
+      <label for="difficulty-select" class="block text-sm text-gray-300 mb-2">Välj svårighetsgrad:</label>
+      <select id="difficulty-select" class="text-black rounded p-2 mb-4">
+        <option value="Alla">Alla</option>
+        <option value="Lätt">Lätt</option>
+        <option value="Medel">Medel</option>
+        <option value="Svår">Svår</option>
+      </select>
+      <button id="start-button" class="mt-4 bg-green-700 hover:bg-green-600 text-white font-bold py-2 px-4 rounded opacity-50" disabled>Klicka för att ladda frågor...</button>
+    </div>
+    <div id="quiz-container" class="space-y-4 hidden"></div>
+    <div id="explanation" class="mt-4 text-sm text-gray-300 italic"></div>
+    <button id="next-button" class="mt-6 bg-purple-700 hover:bg-purple-600 text-white font-bold py-2 px-4 rounded hidden">Nästa</button>
+    <div id="result" class="mt-6 text-xl font-semibold hidden"></div>
+  </div>
+
+  <script>
+    let allQuestions = [];
+
+    const questionFiles = [
+      'questions/element.json',
+      'questions/hovkort.json',
+      'questions/numerologi.json',
+      'questions/stora-arkanan.json',
+      'questions/symbolik.json',
+      'questions/tolkning.json'
+    ];
+
+    // Disable start button until questions are loaded
+    document.getElementById("start-button").disabled = true;
+    document.getElementById("start-button").classList.add("opacity-50");
+
+    Promise.all(
+      questionFiles.map(file => 
+        fetch(file)
+          .then(res => {
+            if (!res.ok) throw new Error(`Failed to load ${file}`);
+            return res.json();
+          })
+          .catch(error => {
+            console.warn(`Skipping ${file}:`, error);
+            return []; // Return empty array for failed files
+          })
+      )
+    )
+    .then(results => {
+      allQuestions = results.flat();
+      if (allQuestions.length === 0) {
+        throw new Error('No questions loaded successfully');
+      }
+      // Enable start button when questions are loaded
+      document.getElementById("start-button").disabled = false;
+      document.getElementById("start-button").classList.remove("opacity-50");
+      document.getElementById("start-button").innerHTML = 'Starta quiz';
+    })
+    .catch(error => {
+      console.error('Kunde inte ladda frågefilerna:', error);
+      document.getElementById("start-button").innerHTML = 'Kunde inte ladda frågorna';
+      document.getElementById("start-button").disabled = true;
+      document.getElementById("start-button").classList.add("opacity-50", "bg-red-700");
+    });
+
+    let questions = [];
+    let currentQuestion = 0;
+    let score = 0;
+
+    const container = document.getElementById("quiz-container");
+    const nextButton = document.getElementById("next-button");
+    const result = document.getElementById("result");
+    const explanationBox = document.getElementById("explanation");
+
+    document.getElementById("category-select").addEventListener("change", () => {
+      const selectedCategory = document.getElementById("category-select").value;
+      const countSelect = document.getElementById("question-count");
+      const filtered = selectedCategory === "Alla" ? allQuestions : allQuestions.filter(q => q.category === selectedCategory);
+      const maxCount = filtered.length;
+      countSelect.innerHTML = "";
+      for (let i = 1; i <= maxCount; i++) {
+        const option = document.createElement("option");
+        option.value = i;
+        option.textContent = i;
+        if (i === Math.min(5, maxCount)) option.selected = true;
+        countSelect.appendChild(option);
+      }
+    });
+
+    document.getElementById("start-button").addEventListener("click", () => {
+      const selectedCategory = document.getElementById("category-select").value;
+      const selectedCount = parseInt(document.getElementById("question-count").value);
+      const selectedDifficulty = document.getElementById("difficulty-select").value;
+      
+      // Filter questions based on selected criteria
+      let filtered = [...allQuestions]; // Create a copy of allQuestions
+      
+      if (selectedCategory !== "Alla") {
+        filtered = filtered.filter(q => q && q.category === selectedCategory);
+      }
+      
+      if (selectedDifficulty !== "Alla") {
+        filtered = filtered.filter(q => q && q.difficulty === selectedDifficulty);
+      }
+      
+      // Check if we have enough questions after filtering
+      if (filtered.length === 0) {
+        alert("Inga frågor hittades med valda kriterier. Försök med andra val.");
+        return;
+      }
+      
+      if (filtered.length < selectedCount) {
+        alert(`Det finns bara ${filtered.length} frågor tillgängliga med valda kriterier. Välj ett lägre antal.`);
+        return;
+      }
+      
+      // Shuffle and select questions
+      questions = shuffle([...filtered]).slice(0, selectedCount);
+      
+      if (!questions || questions.length === 0) {
+        alert("Ett fel uppstod när frågorna skulle väljas. Försök igen.");
+        return;
+      }
+
+      currentQuestion = 0;
+      score = 0;
+
+      // Hide setup elements
+      document.getElementById("quiz-container").classList.remove("hidden");
+      document.getElementById("question-count").classList.add("hidden");
+      document.querySelector("label[for='question-count']").classList.add("hidden");
+      document.getElementById("category-select").classList.add("hidden");
+      document.querySelector("label[for='category-select']").classList.add("hidden");
+      document.getElementById("difficulty-select").classList.add("hidden");
+      document.querySelector("label[for='difficulty-select']").classList.add("hidden");
+      document.getElementById("start-button").classList.add("hidden");
+      
+      // Disable controls
+      document.getElementById("question-count").disabled = true;
+      document.getElementById("category-select").disabled = true;
+      document.getElementById("difficulty-select").disabled = true;
+      
+      showQuestion();
+    });
+
+    function showQuestion() {
+      if (!questions || currentQuestion >= questions.length) {
+        console.error('Invalid question state');
+        return;
+      }
+
+      const q = questions[currentQuestion];
+      if (!q || !q.answers) {
+        console.error('Invalid question format:', q);
+        return;
+      }
+
+      explanationBox.textContent = "";
+
+      const shuffledAnswers = q.answers.map((text, originalIndex) => ({ text, originalIndex }));
+      shuffle(shuffledAnswers);
+
+      container.innerHTML = `
+        <div class="mb-2 text-sm text-gray-400">
+          <span class="bg-purple-900 rounded px-2 py-1 mr-2">${q.category}</span>
+          <span class="bg-purple-900 rounded px-2 py-1">${q.difficulty || 'Lätt'}</span>
+        </div>
+        <h2 class="text-xl font-semibold mb-4">${q.question}</h2>
+        ${q.image ? `<img src="${q.image}" alt="" class="max-w-full h-auto rounded-lg mb-4 mx-auto">` : ''}
+        ${shuffledAnswers.map((ans) => `
+          <button class="answer-btn bg-purple-800 hover:bg-purple-600 p-3 rounded block w-full mt-2" data-index="${ans.originalIndex}">${ans.text}</button>
+        `).join("")}`;
+      const answerButtons = document.querySelectorAll(".answer-btn");
+      answerButtons.forEach(btn => {
+        btn.addEventListener("click", () => {
+          const selectedIndex = parseInt(btn.dataset.index);
+          const correctIndex = q.correct;
+
+          answerButtons.forEach(b => {
+            const bIndex = parseInt(b.dataset.index);
+            b.disabled = true;
+            b.classList.remove("bg-purple-800", "hover:bg-purple-600");
+            if (bIndex === correctIndex) {
+              b.classList.add("bg-green-600");
+            } else if (bIndex === selectedIndex) {
+              b.classList.add("bg-red-600");
+            }
+          });
+
+          if (selectedIndex === correctIndex) score++;
+          explanationBox.textContent = q.explanation;
+          nextButton.classList.remove("hidden");
+        });
+      });
+    }
+
+    function shuffle(array) {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+      return array;
+    }
+
+    nextButton.addEventListener("click", () => {
+      currentQuestion++;
+      if (currentQuestion < questions.length) {
+        showQuestion();
+        nextButton.classList.add("hidden");
+      } else {
+        container.innerHTML = "";
+        explanationBox.textContent = "";
+        nextButton.classList.add("hidden");
+        result.classList.remove("hidden");
+        const percentage = score / questions.length;
+
+        let level = "";
+        if (percentage === 1) {
+          level = " Tarotmästare! Du har full koll på symbolik och system.";
+        } else if (percentage >= 0.75) {
+          level = " Avancerad lärling – du har stark förståelse för tarotens struktur.";
+        } else if (percentage >= 0.5) {
+          level = " Nyfiken elev – du har börjat bygga din tarotgrund.";
+        } else {
+          level = " Sökare – du är i början av din resa. Fortsätt utforska!";
+        }
+
+        let card = "";
+        if (percentage === 1) {
+          card = "(Representeras av Solen – klarhet, mästerskap, framgång)";
+        } else if (percentage >= 0.75) {
+          card = "(Representeras av Magikern – skicklighet, fokus, potential)";
+        } else if (percentage >= 0.5) {
+          card = "(Representeras av Måttfullhet – lärande, balans, övning)";
+        } else {
+          card = "(Representeras av Narren – ny början, öppenhet, upptäcktsfärd)";
+        }
+
+        result.innerHTML = `Du fick ${score} av ${questions.length} rätt!<br>${level}<br>${card}`;
+
+        const imageMap = {
+          'Solen': 'https://upload.wikimedia.org/wikipedia/commons/1/17/RWS_Tarot_19_Sun.jpg',
+          'Magikern': 'https://upload.wikimedia.org/wikipedia/commons/d/de/RWS_Tarot_01_Magician.jpg',
+          'Måttfullhet': 'https://upload.wikimedia.org/wikipedia/commons/f/f8/RWS_Tarot_14_Temperance.jpg',
+          'Narren': 'https://upload.wikimedia.org/wikipedia/commons/9/90/RWS_Tarot_00_Fool.jpg'
+        };
+
+        let cardName = "";
+        if (percentage === 1) cardName = 'Solen';
+        else if (percentage >= 0.75) cardName = 'Magikern';
+        else if (percentage >= 0.5) cardName = 'Måttfullhet';
+        else cardName = 'Narren';
+
+        const img = document.createElement("img");
+        img.src = imageMap[cardName];
+        img.alt = cardName;
+        img.className = "mx-auto mt-4 rounded shadow-xl w-32";
+        result.appendChild(img);
+
+        const restartBtn = document.createElement("button");
+        restartBtn.textContent = "Starta om";
+        restartBtn.className = "mt-4 bg-indigo-600 hover:bg-indigo-500 text-white font-bold py-2 px-4 rounded";
+        restartBtn.addEventListener("click", () => window.location.reload());
+        result.appendChild(restartBtn);
+      }
+    });
+  </script>
+</body>
+</html>
