@@ -7,7 +7,7 @@
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
   <style>
     body {
-      background-image: url('https://upload.wikimedia.org/wikipedia/commons/9/90/RWS_Tarot_00_Fool.jpg');
+      background-image: url('img/cards/RWS_Tarot_00_Fool.jpg');
       background-size: cover;
       background-position: center;
     }
@@ -34,6 +34,7 @@
         <option value="Element">Element</option>
         <option value="Numerologi">Numerologi</option>
         <option value="Hovkort">Hovkort</option>
+        <option value="Stora Arkanan">Stora Arkanan</option>
         <option value="Tolkning och kontext">Tolkning och kontext</option>
       </select>
 
@@ -75,6 +76,11 @@
             if (!res.ok) throw new Error(`Failed to load ${file}`);
             return res.json();
           })
+          .then(data => {
+            console.log(`Loaded ${file}:`, data.length, 'questions');
+            console.log('Sample question:', data[0]);
+            return data;
+          })
           .catch(error => {
             console.warn(`Skipping ${file}:`, error);
             return []; // Return empty array for failed files
@@ -83,6 +89,7 @@
     )
     .then(results => {
       allQuestions = results.flat();
+      console.log('Total questions loaded:', allQuestions.length);
       if (allQuestions.length === 0) {
         throw new Error('No questions loaded successfully');
       }
@@ -185,6 +192,7 @@
       }
 
       const q = questions[currentQuestion];
+      console.log('Showing question:', q);
       if (!q || !q.answers) {
         console.error('Invalid question format:', q);
         return;
@@ -201,7 +209,7 @@
           <span class="bg-purple-900 rounded px-2 py-1">${q.difficulty || 'Lätt'}</span>
         </div>
         <h2 class="text-xl font-semibold mb-4">${q.question}</h2>
-        ${q.image ? `<img src="${q.image}" alt="" class="max-w-full h-auto rounded-lg mb-4 mx-auto">` : ''}
+        ${q.image ? `<img src="${q.image}" alt="" style="width: 150px;" class="rounded-lg mb-4 mx-auto">` : ''}
         ${shuffledAnswers.map((ans) => `
           <button class="answer-btn bg-purple-800 hover:bg-purple-600 p-3 rounded block w-full mt-2" data-index="${ans.originalIndex}">${ans.text}</button>
         `).join("")}`;
@@ -274,10 +282,10 @@
         result.innerHTML = `Du fick ${score} av ${questions.length} rätt!<br>${level}<br>${card}`;
 
         const imageMap = {
-          'Solen': 'https://upload.wikimedia.org/wikipedia/commons/1/17/RWS_Tarot_19_Sun.jpg',
-          'Magikern': 'https://upload.wikimedia.org/wikipedia/commons/d/de/RWS_Tarot_01_Magician.jpg',
-          'Måttfullhet': 'https://upload.wikimedia.org/wikipedia/commons/f/f8/RWS_Tarot_14_Temperance.jpg',
-          'Narren': 'https://upload.wikimedia.org/wikipedia/commons/9/90/RWS_Tarot_00_Fool.jpg'
+          'Solen': 'img/cards/RWS_Tarot_19_Sun.jpg',
+          'Magikern': 'img/cards/RWS_Tarot_01_Magician.jpg',
+          'Måttfullhet': 'img/cards/RWS_Tarot_14_Temperance.jpg',
+          'Narren': 'img/cards/RWS_Tarot_00_Fool.jpg'
         };
 
         let cardName = "";
