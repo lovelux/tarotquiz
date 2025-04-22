@@ -1,0 +1,44 @@
+{
+    "categories": [
+      {
+        "id": "Alla",
+        "name": "Alla kategorier"
+      },
+      {
+        "id": "Element",
+        "name": "Element"
+      },
+      {
+        "id": "Numerologi",
+        "name": "Numerologi"
+      },
+      {
+        "id": "Hovkort",
+        "name": "Hovkort"
+      },
+      {
+        "id": "Stora Arkanan",
+        "name": "Stora Arkanan"
+      },
+      {
+        "id": "Tolkning och kontext",
+        "name": "Tolkning och kontext"
+      },
+      {
+        "id": "Svärd",
+        "name": "Svärd"
+      },
+      {
+        "id": "Bägare",
+        "name": "Bägare"
+      },
+      {
+        "id": "Mynt",
+        "name": "Mynt"
+      },
+      {
+        "id": "Stavar",
+        "name": "Stavar"
+      }
+    ]
+  }

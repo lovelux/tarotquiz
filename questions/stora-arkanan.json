@@ -24,11 +24,11 @@
     },
     {
       "question": "Vad står kortet Tornet för?",
-      "answers": ["Plötslig förändring, kaos och sanning", "Lycka", "Överflöd", "Frid"],
+      "answers": ["Plötslig förändring, kaos och sanning", "Uppvaknande, frihet och avslöjanden", "Struktur, trygghet och stabilitet", "Känslomässig harmoni och inre frid"],
       "correct": 0,
       "explanation": "Tornet är kris, uppvaknande, krasch och transformation.",
       "category": "Stora Arkanan",
-      "image": "img/cards/RWS_Tarot_16_Tarot_Tower.jpg"
+      "image": "img/cards/RWS_Tarot_16_Tower.jpg"
     },
     {
       "question": "Vad symboliserar kortet Narren (0) i tarot?",
@@ -84,7 +84,7 @@
       "correct": 3,
       "explanation": "Val, kärlek och förening är kärnan i detta korts betydelse.",
       "category": "Stora Arkanan",
-      "image": "img/cards/RWS_Tarot_06_Love.jpg"
+      "image": "img/cards/RWS_Tarot_06_Lovers.jpg"
     },
     {
       "question": "Vad symboliserar kortet Vagnen (7) i tarot?",
@@ -92,7 +92,7 @@
       "correct": 0,
       "explanation": "Framgång genom vilja och kontroll är kärnan i detta korts betydelse.",
       "category": "Stora Arkanan",
-      "image": "img/cards/RWS_Tarot_07_Vehicle.jpg"
+      "image": "img/cards/RWS_Tarot_07_Chariot.jpg"
     },
     {
       "question": "Vad symboliserar kortet Styrka (8) i tarot?",
@@ -108,7 +108,7 @@
       "correct": 3,
       "explanation": "Inre sökande, visdom och ensamhet är kärnan i detta korts betydelse.",
       "category": "Stora Arkanan",
-      "image": "img/cards/RWS_Tarot_09_Eremit.jpg"
+      "image": "img/cards/RWS_Tarot_09_Hermit.jpg"
     },
     {
       "question": "Vad symboliserar kortet Ödeshjulet (10) i tarot?",
@@ -116,7 +116,7 @@
       "correct": 3,
       "explanation": "Slump, förändring och livets cykler är kärnan i detta korts betydelse.",
       "category": "Stora Arkanan",
-      "image": "img/cards/RWS_Tarot_10_The_Hanged_Man.jpg"
+      "image": "img/cards/RWS_Tarot_10_Wheel_of_Fortune.jpg"
     },
     {
       "question": "Vad symboliserar kortet Rättvisa (11) i tarot?",
@@ -164,7 +164,7 @@
       "correct": 3,
       "explanation": "Plötslig kollaps och uppvaknande är kärnan i detta korts betydelse.",
       "category": "Stora Arkanan",
-      "image": "img/cards/RWS_Tarot_16_Tarot_Tower.jpg"
+      "image": "img/cards/RWS_Tarot_16_Tower.jpg"
     },
     {
       "question": "Vad symboliserar kortet Stjärnan (17) i tarot?",

@@ -349,7 +349,7 @@
     "explanation": "3 i Svärd (Hjärtesorg) visar en smärtsam sida av relationer, medan 3 i Bägare uttrycker vänskap och samhörighet.",
     "category": "Numerologi",
     "difficulty": "Svår"
-  }, 
+  },
   {
     "question": "Hur fungerar siffran 3 symboliskt i sviten Svärd jämfört med Bägare?",
     "answers": [
@@ -360,6 +360,71 @@
     ],
     "correct": 1,
     "explanation": "3 i Svärd (Hjärtesorg) visar en smärtsam sida av relationer, medan 3 i Bägare uttrycker vänskap och samhörighet.",
+    "category": "Numerologi",
+    "difficulty": "Svår"
+  },
+  {
+    "question": "Hur reflekterar siffran 7 sin betydelse i både Stora och Lilla Arkanan?",
+    "answers": [
+      "Genom introspektion, utmaningar och en sökande efter sanning",
+      "Genom yttre dominans och materiell framgång",
+      "Genom kreativ expansion och lättsamhet",
+      "Genom strikt logik och intellektuell kontroll"
+    ],
+    "correct": 0,
+    "explanation": "Sjuan i tarot är ofta kopplad till inre sökande (t.ex. Vagnen, Sju i Svärd/Bägare) och behovet av att välja en sann väg.",
+    "category": "Numerologi",
+    "difficulty": "Svår"
+  },
+  {
+    "question": "Vilket samband finns mellan siffran 5 och instabilitet i tarotens system?",
+    "answers": [
+      "Siffran 5 speglar disharmoni, kris eller förändring – mittpunkten i svitens resa",
+      "Den visar på kulmination och mognad",
+      "Den representerar alltid trygg stabilitet",
+      "Den står för drömmar och visioner"
+    ],
+    "correct": 0,
+    "explanation": "Femman skapar rörelse – i Hierofanten och alla femmor i Lilla Arkanan ser vi prövningar, konflikt eller förändring.",
+    "category": "Numerologi",
+    "difficulty": "Svår"
+  },
+  {
+    "question": "Hur relaterar siffran 9 till slut och visdom i tarotsystemet?",
+    "answers": [
+      "Nian markerar ofta det sista steget innan upplösning, med fokus på ensamhet, mognad eller kontemplation",
+      "Nian är alltid förknippad med materiell framgång",
+      "Nian handlar främst om känslomässig förvirring",
+      "Nian står för nya början"
+    ],
+    "correct": 0,
+    "explanation": "Nian visar på slutfasen innan 10 (cykelslut) – Eremiten, 9 i Bägare eller Svärd visar olika former av mognad och inre sökande.",
+    "category": "Numerologi",
+    "difficulty": "Svår"
+  },
+  {
+    "question": "Hur tolkas siffran 2 i tarotens numerologi?",
+    "answers": [
+      "Som balans, polaritet och reflektion mellan två aspekter",
+      "Som övergång till kaos",
+      "Som kulmen av fysisk manifestation",
+      "Som total kontroll"
+    ],
+    "correct": 0,
+    "explanation": "Tvåan visar på dualitet, samarbete och relationer – t.ex. Översteprästinnan, 2 i Bägare eller Svärd.",
+    "category": "Numerologi",
+    "difficulty": "Svår"
+  },
+  {
+    "question": "Vilken djupare symbolik bär siffran 0 i tarot (t.ex. Narren)?",
+    "answers": [
+      "Oändlig potential, början före början, gudomlig tomhet",
+      "Total stagnation",
+      "Avsaknad av betydelse",
+      "Slutgiltigt uppvaknande"
+    ],
+    "correct": 0,
+    "explanation": "Siffran 0 representerar en kosmisk början – öppen potential utan form, som hos Narren.",
     "category": "Numerologi",
     "difficulty": "Svår"
   }

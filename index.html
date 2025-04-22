@@ -29,13 +29,7 @@
 
       <label for="category-select" class="block text-sm text-gray-300 mb-2">Välj kategori:</label>
       <select id="category-select" class="text-black rounded p-2 mb-4">
-        <option value="Alla">Alla</option>
-        <option value="Symbolik">Symbolik</option>
-        <option value="Element">Element</option>
-        <option value="Numerologi">Numerologi</option>
-        <option value="Hovkort">Hovkort</option>
-        <option value="Stora Arkanan">Stora Arkanan</option>
-        <option value="Tolkning och kontext">Tolkning och kontext</option>
+        <option value="Alla">Laddar kategorier...</option>
       </select>
 
       <label for="difficulty-select" class="block text-sm text-gray-300 mb-2">Välj svårighetsgrad:</label>
@@ -55,6 +49,22 @@
 
   <script>
     let allQuestions = [];
+    let categories = [];
+
+    // Load categories first
+    fetch('categories.json')
+      .then(res => res.json())
+      .then(data => {
+        categories = data.categories;
+        const categorySelect = document.getElementById("category-select");
+        categorySelect.innerHTML = categories
+          .map(cat => `<option value="${cat.id}">${cat.name}</option>`)
+          .join('');
+      })
+      .catch(error => {
+        console.error('Error loading categories:', error);
+        document.getElementById("category-select").innerHTML = '<option value="Alla">Error loading categories</option>';
+      });
 
     const questionFiles = [
       'questions/element.json',
