@@ -1,0 +1,262 @@
+[
+    {
+        "question": "Vilket element är Mynt-sviten kopplat till i tarot?",
+        "answers": [
+            "Luft",
+            "Eld",
+            "Jord",
+            "Vatten"
+        ],
+        "correct": 2,
+        "explanation": "Mynt är kopplad till jordelementet, vilket representerar det materiella, kroppen och praktiska aspekter.",
+        "category": "Mynt",
+        "difficulty": "Lätt"
+    },
+    {
+        "question": "Vad symboliserar Mynt-sviten främst i en tarotläggning?",
+        "answers": [
+            "Intuition och drömmar",
+            "Relationer och känslor",
+            "Materiella resurser och trygghet",
+            "Tankar och beslut"
+        ],
+        "correct": 2,
+        "explanation": "Mynt står för pengar, arbete, kropp, hälsa och fysisk stabilitet.",
+        "category": "Mynt",
+        "difficulty": "Lätt"
+    },
+    {
+        "question": "Vad representerar Fem i Mynt ofta?",
+        "answers": [
+            "Finansiell stabilitet och trygghet",
+            "Andlig insikt",
+            "Uteslutning, fattigdom eller materiell brist",
+            "Lycka i arbete"
+        ],
+        "correct": 2,
+        "explanation": "Fem i Mynt visar ofta utanförskap eller ekonomiska svårigheter – men också behovet av att söka stöd.",
+        "category": "Mynt",
+        "difficulty": "Medel"
+    },
+    {
+        "question": "Vilket kort i Mynt-sviten representerar ofta början på ett nytt jobb, investering eller fysisk möjlighet?",
+        "answers": [
+            "Ess i Mynt",
+            "Sju i Mynt",
+            "Tio i Mynt",
+            "Riddaren i Mynt"
+        ],
+        "correct": 0,
+        "explanation": "Ess i Mynt står för nya möjligheter i den materiella världen – pengar, arbete eller fysisk tillväxt.",
+        "category": "Mynt",
+        "difficulty": "Medel"
+    },
+    {
+        "question": "Vilken hovfigur i Mynt-sviten symboliserar pålitlighet, tålamod och hårt arbete?",
+        "answers": [
+            "Riddaren i Mynt",
+            "Kungen i Mynt",
+            "Drottningen i Mynt",
+            "Page i Mynt"
+        ],
+        "correct": 0,
+        "explanation": "Riddaren i Mynt är uthållig, praktisk och lojal – ofta associerad med långsiktiga projekt.",
+        "category": "Hovkort – Mynt",
+        "difficulty": "Medel"
+    },
+    {
+        "question": "Vad indikerar Tio i Mynt oftast i en läggning?",
+        "answers": [
+            "Nystart inom relationer",
+            "Emotionell konflikt",
+            "Arv, långsiktig trygghet och familjerikedom",
+            "Andligt uppvaknande"
+        ],
+        "correct": 2,
+        "explanation": "Tio i Mynt handlar om materiellt och socialt arv – stabilitet över generationer.",
+        "category": "Mynt",
+        "difficulty": "Medel"
+    },
+    {
+        "question": "Vad representerar Ess i Mynt i en tarotläggning?",
+        "answers": [
+            "En ny känslomässig början",
+            "En mental klarhet",
+            "En materiell möjlighet eller nystart",
+            "En andlig upplysning"
+        ],
+        "correct": 2,
+        "explanation": "Ess i Mynt står för nya möjligheter i det materiella – jobb, pengar, hälsa eller investering.",
+        "category": "Mynt",
+        "difficulty": "Lätt"
+    },
+    {
+        "question": "Vad står Två i Mynt ofta för i en läggning?",
+        "answers": [
+            "Kaos och osäkerhet",
+            "Balans mellan olika åtaganden",
+            "Överflöd och rikedom",
+            "Besvikelse"
+        ],
+        "correct": 1,
+        "explanation": "Två i Mynt handlar om att jonglera resurser, arbete och tid – att hålla balansen.",
+        "category": "Mynt",
+        "difficulty": "Lätt"
+    },
+    {
+        "question": "Tre i Mynt handlar främst om:",
+        "answers": [
+            "Samarbete och hantverk",
+            "Emotionell utveckling",
+            "Konfliktlösning",
+            "Andlig vision"
+        ],
+        "correct": 0,
+        "explanation": "Tre i Mynt står för samarbete, kompetens och att bygga något tillsammans.",
+        "category": "Mynt",
+        "difficulty": "Lätt"
+    },
+    {
+        "question": "Fyra i Mynt representerar ofta:",
+        "answers": [
+            "Generositet",
+            "Materiell trygghet och kontrollbehov",
+            "Emotionell öppenhet",
+            "Inspiration"
+        ],
+        "correct": 1,
+        "explanation": "Fyra i Mynt symboliserar att hålla hårt i resurser – ibland till den grad att det hindrar flöde.",
+        "category": "Mynt",
+        "difficulty": "Medel"
+    },
+    {
+        "question": "Vad symboliserar Fem i Mynt?",
+        "answers": [
+            "Välstånd och överflöd",
+            "Utanförskap och materiell brist",
+            "Mental klarhet",
+            "Emotionell läkning"
+        ],
+        "correct": 1,
+        "explanation": "Fem i Mynt står ofta för ekonomisk svårighet eller känsla av att vara utanför.",
+        "category": "Mynt",
+        "difficulty": "Medel"
+    },
+    {
+        "question": "Sex i Mynt handlar främst om:",
+        "answers": [
+            "Rättvisa och balans i givande",
+            "Förlust",
+            "Illusioner",
+            "Romantisk kärlek"
+        ],
+        "correct": 0,
+        "explanation": "Sex i Mynt visar på generositet, ömsesidighet och balans mellan att ge och ta emot.",
+        "category": "Mynt",
+        "difficulty": "Lätt"
+    },
+    {
+        "question": "Vad indikerar Sju i Mynt oftast?",
+        "answers": [
+            "Snabba resultat",
+            "Att något tagit slut",
+            "Tålamod och långsiktig utveckling",
+            "Nya idéer"
+        ],
+        "correct": 2,
+        "explanation": "Sju i Mynt visar att det krävs tålamod för att se frukten av sitt arbete – en paus för reflektion.",
+        "category": "Mynt",
+        "difficulty": "Medel"
+    },
+    {
+        "question": "Vad representerar Åtta i Mynt?",
+        "answers": [
+            "Emotionell tillbakadragenhet",
+            "Förlust",
+            "Engagemang i att förbättra en färdighet",
+            "Svek"
+        ],
+        "correct": 2,
+        "explanation": "Åtta i Mynt symboliserar målmedvetenhet och att bemästra ett hantverk genom repetition och fokus.",
+        "category": "Mynt",
+        "difficulty": "Medel"
+    },
+    {
+        "question": "Nio i Mynt symboliserar ofta:",
+        "answers": [
+            "Emotionell mognad",
+            "Andligt sökande",
+            "Självförsörjning och njutning av resultat",
+            "Destruktivitet"
+        ],
+        "correct": 2,
+        "explanation": "Nio i Mynt visar på självständighet, njutning av arbetets frukter och trygghet i det materiella.",
+        "category": "Mynt",
+        "difficulty": "Lätt"
+    },
+    {
+        "question": "Vad representerar Tio i Mynt?",
+        "answers": [
+            "Kreativ passion",
+            "Andlig frihet",
+            "Arv, trygghet och familjens materiella stabilitet",
+            "Uppoffring"
+        ],
+        "correct": 2,
+        "explanation": "Tio i Mynt handlar om materiellt arv, trygghet över generationer och långsiktig stabilitet.",
+        "category": "Mynt",
+        "difficulty": "Medel"
+    },
+    {
+        "question": "Vad står Page i Mynt för?",
+        "answers": [
+            "Emotionell mognad",
+            "Materiell nyfikenhet och studier",
+            "Romantisk längtan",
+            "Impulsivitet"
+        ],
+        "correct": 1,
+        "explanation": "Page i Mynt är en lärling – nyfiken på pengar, hälsa, utbildning och fysisk verklighet.",
+        "category": "Mynt",
+        "difficulty": "Lätt"
+    },
+    {
+        "question": "Riddaren i Mynt representerar ofta:",
+        "answers": [
+            "Snabba förändringar",
+            "Upplysning",
+            "Tålamod, lojalitet och arbetsamhet",
+            "Romantiska drömmar"
+        ],
+        "correct": 2,
+        "explanation": "Riddaren i Mynt är långsam men pålitlig – en symbol för uthålligt och metodiskt arbete.",
+        "category": "Mynt",
+        "difficulty": "Medel"
+    },
+    {
+        "question": "Vad kännetecknar Drottningen i Mynt?",
+        "answers": [
+            "Känslomässig kontroll",
+            "Omtanke, fysisk närvaro och praktisk trygghet",
+            "Strategisk makt",
+            "Andlig visdom"
+        ],
+        "correct": 1,
+        "explanation": "Drottningen i Mynt är moderlig, generös och djupt rotad i det jordiska och kroppsliga.",
+        "category": "Mynt",
+        "difficulty": "Medel"
+    },
+    {
+        "question": "Kungen i Mynt representerar främst:",
+        "answers": [
+            "Logisk distans",
+            "Kreativ impuls",
+            "Ekonomiskt ledarskap och materiell trygghet",
+            "Känslomässigt kaos"
+        ],
+        "correct": 2,
+        "explanation": "Kungen i Mynt symboliserar stabilitet, ansvar och mästerskap över det materiella.",
+        "category": "Mynt",
+        "difficulty": "Medel"
+    }
+]

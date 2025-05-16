@@ -1,0 +1,114 @@
+[
+    {
+      "question": "Vad symboliserar Ess i Bägare i en tarotläggning?",
+      "answers": ["En ny materiell början", "En ny känslomässig möjlighet", "Mental klarhet", "Ett avslut"],
+      "correct": 1,
+      "explanation": "Ess i Bägare står för en ny emotionell öppning – kärlek, medkänsla, andlig kontakt.",
+      "category": "Bägare",
+      "difficulty": "Lätt"
+    },
+    {
+      "question": "Vad handlar Två i Bägare ofta om?",
+      "answers": ["Konkurrens", "Relationer och ömsesidighet", "Finansiell balans", "Självreflektion"],
+      "correct": 1,
+      "explanation": "Två i Bägare representerar harmoniska relationer, attraktion och känslomässig balans mellan två parter.",
+      "category": "Bägare",
+      "difficulty": "Lätt"
+    },
+    {
+      "question": "Tre i Bägare står vanligtvis för:",
+      "answers": ["Fira vänskap och gemenskap", "Inre konflikt", "Ekonomisk tillväxt", "Emotionell stagnation"],
+      "correct": 0,
+      "explanation": "Tre i Bägare är kortet för firande, vänskap, kreativa samarbeten och glädje i gemenskap.",
+      "category": "Bägare",
+      "difficulty": "Lätt"
+    },
+    {
+      "question": "Fyra i Bägare visar ofta på:",
+      "answers": ["Missade möjligheter", "Känslomässig mättnad", "Självupptagenhet", "Alla ovan"],
+      "correct": 3,
+      "explanation": "Fyra i Bägare symboliserar känslomässig trötthet eller ointresse för nya chanser som erbjuds.",
+      "category": "Bägare",
+      "difficulty": "Medel"
+    },
+    {
+      "question": "Vad innebär Fem i Bägare oftast?",
+      "answers": ["Glädje över nuet", "Sorg, förlust och fokus på det som gått förlorat", "Överflöd", "Framgång i relationer"],
+      "correct": 1,
+      "explanation": "Fem i Bägare är förknippat med känslomässig förlust – men påminner om att något fortfarande finns kvar.",
+      "category": "Bägare",
+      "difficulty": "Medel"
+    },
+    {
+      "question": "Vad uttrycker Sex i Bägare?",
+      "answers": ["Framtidsplaner", "Nostalgi, barndomsminnen och enkelhet", "Rädsla för att känna", "Överanalysering"],
+      "correct": 1,
+      "explanation": "Sex i Bägare handlar om minnen, barndom, lekfullhet och känslomässig oskuld.",
+      "category": "Bägare",
+      "difficulty": "Lätt"
+    },
+    {
+      "question": "Sju i Bägare varnar ofta för:",
+      "answers": ["Fattigdom", "Frestelser, illusioner och distraktioner", "Brist på känslor", "Intellektuell förvirring"],
+      "correct": 1,
+      "explanation": "Sju i Bägare visar många val – men inte alla är vad de verkar vara. Kortet varnar för illusion och dagdrömmeri.",
+      "category": "Bägare",
+      "difficulty": "Medel"
+    },
+    {
+      "question": "Vad visar Åtta i Bägare ofta?",
+      "answers": ["Emotionell tillfredsställelse", "Att lämna något som inte längre tjänar dig", "En ny relation", "En familjefest"],
+      "correct": 1,
+      "explanation": "Åtta i Bägare står för att söka djupare mening – ofta genom att lämna något emotionellt bekant.",
+      "category": "Bägare",
+      "difficulty": "Medel"
+    },
+    {
+      "question": "Vad betyder Nio i Bägare ofta?",
+      "answers": ["Emotionellt missnöje", "Emotionell självuppfyllelse och njutning", "Rädsla för kärlek", "Kreativ blockering"],
+      "correct": 1,
+      "explanation": "Nio i Bägare är ofta kallat 'önskekortet' – ett tecken på att känslomässig tillfredsställelse är nära.",
+      "category": "Bägare",
+      "difficulty": "Lätt"
+    },
+    {
+      "question": "Tio i Bägare representerar ofta:",
+      "answers": ["Slut på en relation", "Emotionell stabilitet och familjelycka", "Ensamhet", "Kreativ längtan"],
+      "correct": 1,
+      "explanation": "Tio i Bägare är ett av de mest positiva korten för emotionell harmoni, familj, och andlig lycka.",
+      "category": "Bägare",
+      "difficulty": "Lätt"
+    },
+    {
+      "question": "Vad betyder Page i Bägare oftast?",
+      "answers": ["Materiell trygghet", "En oväntad känslomässig signal eller inbjudan", "Ett nytt jobb", "Rädsla för sårbarhet"],
+      "correct": 1,
+      "explanation": "Page i Bägare representerar känslomässiga nyheter, intuition och sårbarhet – ofta början på något nytt.",
+      "category": "Bägare",
+      "difficulty": "Medel"
+    },
+    {
+      "question": "Vad står Riddaren i Bägare för?",
+      "answers": ["Snabb rörelse framåt", "Ett romantiskt eller kreativt erbjudande", "Praktisk planering", "Logisk analys"],
+      "correct": 1,
+      "explanation": "Riddaren i Bägare bär ofta ett budskap om kärlek, drömmar eller konstnärlig passion.",
+      "category": "Bägare",
+      "difficulty": "Medel"
+    },
+    {
+      "question": "Vad kännetecknar Drottningen i Bägare?",
+      "answers": ["Praktisk visdom", "Känslomässig intelligens, empati och intuition", "Uttrycksfull vrede", "Ekonomiskt fokus"],
+      "correct": 1,
+      "explanation": "Drottningen i Bägare är lyhörd, känslig och djupt intuitiv – en stark emotionell ledare.",
+      "category": "Bägare",
+      "difficulty": "Medel"
+    },
+    {
+      "question": "Kungen i Bägare representerar främst:",
+      "answers": ["Kontrollerad emotionell visdom", "Slut på kreativitet", "Impulsiv passion", "Social ensamhet"],
+      "correct": 0,
+      "explanation": "Kungen i Bägare symboliserar känslomässig balans, mogen empati och en vis inre kompass.",
+      "category": "Bägare",
+      "difficulty": "Medel"
+    }
+  ]  

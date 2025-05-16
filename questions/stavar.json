@@ -1,0 +1,114 @@
+[
+    {
+      "question": "Vad representerar Ess i Stavar i en tarotläggning?",
+      "answers": ["Ny passion, inspiration och skaparkraft", "En ekonomisk möjlighet", "Känslomässig balans", "En avslutad cykel"],
+      "correct": 0,
+      "explanation": "Ess i Stavar står för en ny gnista – kreativitet, initiativ och livsenergi.",
+      "category": "Stavar",
+      "difficulty": "Lätt"
+    },
+    {
+      "question": "Två i Stavar symboliserar ofta:",
+      "answers": ["Ett kärleksval", "Inaktivitet", "Planering och framtidsvisioner", "Emotionell tillbakadragenhet"],
+      "correct": 2,
+      "explanation": "Två i Stavar visar på viljan att utforska nya möjligheter – en period av planering och beslut.",
+      "category": "Stavar",
+      "difficulty": "Lätt"
+    },
+    {
+      "question": "Tre i Stavar representerar ofta:",
+      "answers": ["Sorg", "Väntan på resultat efter initiativ", "Förlust", "Inre konflikt"],
+      "correct": 1,
+      "explanation": "Tre i Stavar visar en person som blickar ut mot horisonten – tecken på att något är på väg att bära frukt.",
+      "category": "Stavar",
+      "difficulty": "Lätt"
+    },
+    {
+      "question": "Fyra i Stavar är starkt kopplat till:",
+      "answers": ["Ritualer och firanden", "Besvikelser", "Materiella utmaningar", "Mental utmattning"],
+      "correct": 0,
+      "explanation": "Fyra i Stavar handlar om glädje, gemenskap, firanden och känslan av trygghet i sociala strukturer.",
+      "category": "Stavar",
+      "difficulty": "Lätt"
+    },
+    {
+      "question": "Vad symboliserar Fem i Stavar ofta?",
+      "answers": ["Inre harmoni", "Konkurrens, konflikter och utmaningar", "Emotionell balans", "Lycka i kärlek"],
+      "correct": 1,
+      "explanation": "Fem i Stavar visar ofta kamp, men det kan vara kreativt kaos – som leder till utveckling.",
+      "category": "Stavar",
+      "difficulty": "Medel"
+    },
+    {
+      "question": "Sex i Stavar visar vanligtvis:",
+      "answers": ["Seger, erkännande och självsäkerhet", "Förtvivlan", "Missförstånd", "Andlig sökan"],
+      "correct": 0,
+      "explanation": "Sex i Stavar är ett segerkort – det representerar erkännande, framgång och offentlig bekräftelse.",
+      "category": "Stavar",
+      "difficulty": "Lätt"
+    },
+    {
+      "question": "Vad handlar Sju i Stavar om?",
+      "answers": ["Att försvara sin ståndpunkt", "Emotionell tillbakadragenhet", "En ny relation", "Materiell trygghet"],
+      "correct": 0,
+      "explanation": "Sju i Stavar står för mod att stå upp för sig själv och det man tror på, även om det är tufft.",
+      "category": "Stavar",
+      "difficulty": "Medel"
+    },
+    {
+      "question": "Vad betyder Åtta i Stavar i en läggning?",
+      "answers": ["Fördröjning", "Snabb rörelse framåt och kommunikation", "Stillastående energi", "Emotionell chock"],
+      "correct": 1,
+      "explanation": "Åtta i Stavar är kortet för snabb utveckling, kommunikation och plötslig förändring.",
+      "category": "Stavar",
+      "difficulty": "Lätt"
+    },
+    {
+      "question": "Nio i Stavar symboliserar ofta:",
+      "answers": ["Uppgivenhet", "Vaksamhet och uthållighet", "Känslomässig klarhet", "Överflöd"],
+      "correct": 1,
+      "explanation": "Nio i Stavar visar på uthållighet efter strid – du är trött men inte besegrad.",
+      "category": "Stavar",
+      "difficulty": "Medel"
+    },
+    {
+      "question": "Vad representerar Tio i Stavar?",
+      "answers": ["En känslomässig lättnad", "En tung börda eller ansvar", "Starten på något nytt", "Kreativ frihet"],
+      "correct": 1,
+      "explanation": "Tio i Stavar visar på att du bär mycket ansvar – du är nära mål men belastningen är tung.",
+      "category": "Stavar",
+      "difficulty": "Medel"
+    },
+    {
+      "question": "Page i Stavar står oftast för:",
+      "answers": ["En känslomässig blockering", "Nyfikenhet, äventyrslust och kreativ impuls", "Stabilitet", "En materiell möjlighet"],
+      "correct": 1,
+      "explanation": "Page i Stavar är den unga upptäckaren – ivrig att utforska idéer och passion.",
+      "category": "Stavar",
+      "difficulty": "Lätt"
+    },
+    {
+      "question": "Vad representerar Riddaren i Stavar?",
+      "answers": ["Stabilitet och försiktighet", "Snabb passion, äventyr och driv", "Känslomässig närhet", "Mental klarhet"],
+      "correct": 1,
+      "explanation": "Riddaren i Stavar är kraftfull, spontan och ofta på jakt efter nästa erövring eller idé.",
+      "category": "Stavar",
+      "difficulty": "Medel"
+    },
+    {
+      "question": "Drottningen i Stavar representerar ofta:",
+      "answers": ["Inåtvändhet", "Karismatisk, självsäker och kreativ energi", "Passivitet", "Materiell oro"],
+      "correct": 1,
+      "explanation": "Drottningen i Stavar är varm, självsäker och kreativ – hon inspirerar andra genom sitt exempel.",
+      "category": "Stavar",
+      "difficulty": "Medel"
+    },
+    {
+      "question": "Kungen i Stavar symboliserar främst:",
+      "answers": ["Ledarskap genom inspiration och vision", "Emotionell kyla", "Obeslutsamhet", "Andlig tillbakadragenhet"],
+      "correct": 0,
+      "explanation": "Kungen i Stavar är en naturlig ledare – självsäker, driven och inspirerande för andra.",
+      "category": "Stavar",
+      "difficulty": "Medel"
+    }
+  ]  

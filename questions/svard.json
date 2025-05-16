@@ -1,0 +1,83 @@
+[
+    {
+        "question": "Vilket element är Svärd-sviten kopplad till i tarot?",
+        "answers": [
+            "Vatten",
+            "Luft",
+            "Eld",
+            "Jord"
+        ],
+        "correct": 1,
+        "explanation": "Svärd representerar elementet luft, vilket står för tankar, kommunikation, intellekt och sanning.",
+        "category": "Svärd",
+        "difficulty": "Lätt",
+        "image": "img/cards/swords/Swords_01.jpg"
+    },
+    {
+        "question": "Vad symboliserar sviten Svärd oftast i en tarotläggning?",
+        "answers": [
+            "Känslor och relationer",
+            "Material rikedom",
+            "Tankar och konflikter",
+            "Kreativitet och passion"
+        ],
+        "correct": 2,
+        "explanation": "Svärd handlar om mentala processer, beslut, sanningar och konflikter – både inre och yttre.",
+        "category": "Svärd",
+        "difficulty": "Lätt",
+        "image": "img/cards/swords/Swords_02.jpg"
+    },
+    {
+        "question": "Vilket kort i Svärd-sviten associeras ofta med 'sanning avslöjad' eller ett mentalt genombrott?",
+        "answers": [
+            "Ess i Svärd",
+            "Tre i Svärd",
+            "Sju i Svärd",
+            "Tio i Svärd"
+        ],
+        "correct": 0,
+        "explanation": "Ess i Svärd står för klarhet, insikter och ett nytt sätt att se på saker – en mental nystart.",
+        "category": "Svärd",
+        "difficulty": "Medel"
+    },
+    {
+        "question": "Vilket kort i Svärd-sviten symboliserar ofta hjärtesorg eller smärta?",
+        "answers": [
+            "Nio i Svärd",
+            "Tre i Svärd",
+            "Fem i Svärd",
+            "Page i Svärd"
+        ],
+        "correct": 1,
+        "explanation": "Tre i Svärd visar ofta ett hjärta genomborrat av tre svärd – symbol för sorg, svek eller separation.",
+        "category": "Svärd",
+        "difficulty": "Medel"
+    },
+    {
+        "question": "Vad representerar Tio i Svärd i en tarotläggning?",
+        "answers": [
+            "Total kapitulation eller slutpunkt",
+            "Ett nytt kreativt projekt",
+            "Andlig upplysning",
+            "En början på ett förhållande"
+        ],
+        "correct": 0,
+        "explanation": "Tio i Svärd visar ett abrupt slut, ofta efter en långvarig kamp – men också möjligheten till återfödelse.",
+        "category": "Svärd",
+        "difficulty": "Medel",
+        "image": "img/cards/swords/Swords_10.jpg"
+    },
+    {
+        "question": "Vilket hovkort i Svärd-sviten representerar skarp intelligens och objektiv rättvisa?",
+        "answers": [
+            "Kungen i Svärd",
+            "Drottningen i Svärd",
+            "Riddaren i Svärd",
+            "Page i Svärd"
+        ],
+        "correct": 0,
+        "explanation": "Kungen i Svärd står för klarhet, logik och opartisk bedömning – ofta kopplat till makt och sanning.",
+        "category": "Hovkort – Svärd",
+        "difficulty": "Medel"
+    }
+]

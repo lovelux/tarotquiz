@@ -427,5 +427,87 @@
     "explanation": "Siffran 0 representerar en kosmisk början – öppen potential utan form, som hos Narren.",
     "category": "Numerologi",
     "difficulty": "Svår"
+  },
+  {
+    "question": "Vad symboliserar siffran 5 generellt i tarotens nummerkort?",
+    "answers": ["Stabilitet och struktur", "Utveckling och balans", "Kaos, konflikt och förändring", "Upplysning och avslut"],
+    "correct": 2,
+    "explanation": "Fem representerar ofta disharmoni och förändring – en brytpunkt där man utmanas att växa.",
+    "category": "Numerologi",
+    "difficulty": "Svår"
+  },
+  {
+    "question": "Vilket nummer i tarot representerar ofta början av en ny fas, potential och fröet till manifestation?",
+    "answers": ["Ess (1)", "Sju", "Nio", "Tio"],
+    "correct": 0,
+    "explanation": "Ess (1) står för början, ren potential och koncentrerad kraft – fröet till hela sviten.",
+    "category": "Numerologi",
+    "difficulty": "Svår"
+  },
+  {
+    "question": "Vad förenar korten med siffran 8 i alla sviter enligt numerologisk tolkning?",
+    "answers": ["Känslomässig läkning", "Makt, struktur och självdisciplin", "Oväntade möjligheter", "Inre konflikter"],
+    "correct": 1,
+    "explanation": "Åttan står för auktoritet, kraft, balans mellan det materiella och andliga – ofta en karmisk aspekt.",
+    "category": "Numerologi",
+    "difficulty": "Svår"
+  },
+  {
+    "question": "Siffran 9 ses ofta som symbol för:",
+    "answers": ["Ett nytt äventyr", "Fullbordan, visdom och avslut", "Dualitet", "Expansion och kaos"],
+    "correct": 1,
+    "explanation": "Nio markerar slutet på en cykel – inre mognad, reflektion och förberedelse inför transformation.",
+    "category": "Numerologi",
+    "difficulty": "Svår"
+  },
+  {
+    "question": "Vad betyder siffran 2 ur ett numerologiskt perspektiv i tarot?",
+    "answers": ["Dualitet, relationer och intuition", "Kaos och rörelse", "Logik och struktur", "Egot och viljekraft"],
+    "correct": 0,
+    "explanation": "Tvåor handlar om balans, samverkan, lyssnande, val och det feminina i tarotens energi.",
+    "category": "Numerologi",
+    "difficulty": "Svår"
+  },
+  {
+    "question": "Hur skiljer sig siffran 4 från 10 i den numerologiska resan i tarot?",
+    "answers": [
+      "4 är avslut, 10 är början",
+      "4 är konflikt, 10 är stabilitet",
+      "4 är struktur och stabilitet, 10 är avslut och återfödelse",
+      "De representerar samma arketyp"
+    ],
+    "correct": 2,
+    "explanation": "Fyra står för grund, ordning och stabilitet – medan Tio avslutar en cykel och antyder transformation eller ny början.",
+    "category": "Numerologi",
+    "difficulty": "Svår"
+  },
+  {
+    "question": "Sjuor i tarot är ofta kopplade till vilket tema?",
+    "answers": ["Yttre framgång", "Inre utmaning, andligt sökande och disciplin", "Emotionell trygghet", "Relationer"],
+    "correct": 1,
+    "explanation": "Siffran sju är ofta associerad med inre reflektion, tro, andlig prövning och självinsikt.",
+    "category": "Numerologi",
+    "difficulty": "Svår"
+  },
+  {
+    "question": "Vilken siffras kort i tarot associeras ofta med firande, stabilitet och gemenskap?",
+    "answers": ["Fyra", "Två", "Nio", "Fem"],
+    "correct": 0,
+    "explanation": "Fyra markerar en stabil struktur – som i 4 i Stavar (firande) eller 4 i Mynt (stabil kontroll).",
+    "category": "Numerologi",
+    "difficulty": "Svår"
+  },
+  {
+    "question": "Hur kan siffran 6 tolkas i tarotens nummerkort?",
+    "answers": [
+      "Förvirring och vägval",
+      "Balans, harmoni och återgång till flöde efter konflikt",
+      "Slutgiltig transformation",
+      "Inre kamp och motstånd"
+    ],
+    "correct": 1,
+    "explanation": "Sex är ofta ett kort av integration – läkning efter den instabilitet som femman innebär.",
+    "category": "Numerologi",
+    "difficulty": "Svår"
   }
 ]
